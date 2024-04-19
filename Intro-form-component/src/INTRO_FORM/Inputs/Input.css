@@ -1,0 +1,14 @@
+.container2{
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    gap: 30px;
+    border-radius: 8px;
+}
+input{
+    height: 70px;
+    margin-top: 25px;
+    width: 350px;
+}
